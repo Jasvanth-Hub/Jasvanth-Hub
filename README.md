@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I am Jasvanth Bhukya, a passionate web developer a
 - [Projects](#projects)
 - [Contact](#contact)
 - [Social Media](#social-media)
-- [License](#license)
 
 ## Introduction 💡
 
