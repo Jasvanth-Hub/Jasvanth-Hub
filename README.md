@@ -2,23 +2,15 @@
 
 Welcome to my GitHub profile! I am Jasvanth Bhukya, a passionate web developer and a Computer Science and Engineering student. Here you can find various projects that I have worked on, showcasing my skills and interests in web development and other technologies.
 
-## Table of Contents 📑
-
-- [Introduction](#introduction)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Contact](#contact)
-- [Social Media](#social-media)
-
 ## Introduction 💡
 
 Hello, I'm **Jasvanth Bhukya**, currently pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering. I have a strong passion for web technologies and a knack for problem-solving. I love creating efficient, user-friendly, and visually appealing web applications.
 
 ## Skills 🛠️
 
-Here are some of the technologies and tools I am proficient in:
+Here are some of the technologies and tools I am proficient in web development (MERN Stack):
 
-- **Front-End Development**: HTML, CSS, JavaScript, React.js, Bootstrap
+- **Front-End Development**: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS
 - **Back-End Development**: Node.js, Express.js
 - **Database Management**: MongoDB, MySQL
 - **Version Control**: Git, GitHub
@@ -29,6 +21,9 @@ Here are some of the technologies and tools I am proficient in:
 Here are a few of my projects that you can explore:
 
 - **📋 To-Do List App**: A task management application.
+- **✒️ Study-Sync**: innovative platform offers an effortless and seamless approach to learning.
+- **🔐 Login-Authentication**: Basic Login Authentication App, that provides the good user experience such as Registration, Login, Logout, Update password, Update data and Delete Account.
+- **🎮 Tic-tac-toe**: A puzzle game for two players, called "X" and "O", who take turns marking the spaces in a 3×3 grid. 
 - **☁️ Weather App**: A real-time weather information application.
 - **✅ Form Validation**: A form validation application with real-time feedback.
 - **🔲 QR Code Generator**: An application to create customizable QR codes.
