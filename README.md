@@ -14,13 +14,13 @@ Here are some of the technologies and tools I am proficient in web development (
 - **Back-End Development**: Node.js, Express.js
 - **Database Management**: MongoDB, MySQL
 - **Version Control**: Git, GitHub
-- **Other Tools**: Webpack, Babel, npm
+- **Other Tools**: Babel, npm
 
 ## Projects 🚀
 
 Here are a few of my projects that you can explore:
 
-- **📋 To-Do List App**: A task management application.
+- **📋 New Todo Application**: A task management application.
 - **✒️ Study-Sync**: innovative platform offers an effortless and seamless approach to learning.
 - **🔐 Login-Authentication**: Basic App that provides user Registration, Login, Logout, Update password, Update data and Delete Account.
 - **🎮 Tic-tac-toe**: A puzzle game for two players, called "X" and "O", who take turns marking the spaces in a 3×3 grid. 
