@@ -2,9 +2,11 @@
 
 Welcome to my GitHub profile! I am Jasvanth Bhukya, a passionate web developer and a Computer Science and Engineering student. Here you can find various projects that I have worked on, showcasing my skills and interests in web development and other technologies.
 
-## Introduction 💡
-
-Hello, I'm **Jasvanth Bhukya**, currently pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering. I have a strong passion for web technologies and a knack for problem-solving. I love creating efficient, user-friendly, and visually appealing web applications.
+- 🌱 I’m currently learning Advanced Backend Development and Full-Stack Integration
+- 🚀 My latest project: [ChatTo](https://chatto-app.onrender.com/) - A real-time chat application with seamless communication features.
+- 👨‍💻 Check out all my projects in my GitHub [repositories](https://github.com/Jasvanth-Hub?tab=repositories).
+- ❓ Ask me about MERN Stack Development and Problem Solving
+- 📫 Reach me at [bhukyajasvanth@gmail.com](mailto:bhukyajasvanth@gmail.com)
 
 ## Skills 🛠️
 
@@ -14,12 +16,14 @@ Here are some of the technologies and tools I am proficient in web development (
 - **Back-End Development**: Node.js, Express.js
 - **Database Management**: MongoDB, MySQL
 - **Version Control**: Git, GitHub
-- **Other Tools**: Babel, npm
+- **Other Tools**: npm
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">  </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/express-js.png" alt="express" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASLBH37lru-UTcOTakcTdOsWuNoTEZpmSmA&s" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ## Projects 🚀
 
 Here are a few of my projects that you can explore:
 
+- **💬 ChatTo**: A real-time chat application for smooth and efficient communication.
 - **📋 New Todo Application**: A task management application.
 - **✒️ Study-Sync**: innovative platform offers an effortless and seamless approach to learning.
 - **🔐 Login-Authentication**: Basic App that provides user Registration, Login, Logout, Update password, Update data and Delete Account.
@@ -30,14 +34,12 @@ Here are a few of my projects that you can explore:
 - **🔒 Captcha Verification**: A security feature to prevent automated bots.
 - **🧮 Simple Calculator**: A basic arithmetic calculator.
 
-You can check out these projects and more in my [repositories](https://github.com/Jasvanth-Hub?tab=repositories).
-
-## Contact 📬
+## Connect 📬
 
 Feel free to reach out to me if you have any questions, collaborations, or just want to connect!
 
-- **Email**: [bhukyajasvanth@gmail.com](mailto:bhukyajasvanth@gmail.com)
-- **LinkedIn**: [Jasvanth Bhukya](https://www.linkedin.com/in/jasvanth-bhukya-8a1b16256)
+<a href="https://www.linkedin.com/in/jasvanth-bhukya-8a1b16256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jasvanth-bhukya-8a1b16256" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Jasvanth_Aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Jasvanth_Aa/" height="30" width="40" /></a>
 
 ## Social Media 🌐
 
